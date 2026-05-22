@@ -4,13 +4,17 @@ Ride-Hailing Analytics Dashboard
 
 This project analyzes ride-hailing operations to understand key factors affecting cancellations, driver behavior, and overall service performance.
 The goal was to identify operational bottlenecks and provide data-driven recommendations to improve efficiency and user experience.
+
 **Key Insights**
+
 Cancellation rates were significantly higher for trips with waiting time exceeding 15 minutes (~12.5%), indicating a strong link between delays and user drop-off.
 Morning hours accounted for the highest ride demand (~32.7%), creating supply-demand imbalance and increasing waiting times.
 Fare differences showed a positive correlation with cancellation behavior, suggesting that sudden price changes negatively impact user trust.
 Driver retention stood at ~74.8%, highlighting churn as a potential operational risk affecting overall service stability.
 Only ~58.3% of drivers had zero cancellations, indicating behavioral inconsistencies on the supply side.
+
 **Business Problem**
+
 
 Although overall performance metrics looked healthy on the surface, deeper analysis revealed hidden inefficiencies in:
 
@@ -22,7 +26,9 @@ Explored ride-level data to identify patterns in cancellations and completion ra
 Segmented trips based on time of day, wait time, and pricing differences
 Analyzed driver-side behavior including retention and cancellation activity
 Investigated relationships between operational factors and customer experience
+
 **Tools Used**
+
 Excel (Data Cleaning, Pivot Tables, Dashboarding)
 SQL (Data Extraction & Analysis)
 Outcome
