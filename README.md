@@ -1,4 +1,5 @@
-ide-Hailing Analytics Dashboard
+Ride-Hailing Analytics Dashboard
+
 📌 Project Overview
 
 This project analyzes ride-hailing operations to understand key factors affecting cancellations, driver behavior, and overall service performance.
